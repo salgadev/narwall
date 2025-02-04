@@ -1,17 +1,32 @@
-# **Build your portfolio with Once UI's Magic Portfolio**
+# NARWALL
+
+Navigate,
+
+Access,
+
+React, *to the*
+
+Web *for*
+
+**All**
 
 View the [demo here](https://demo.magic-portfolio.com).
+View the [demo here](https://demo.narwall.com). 
 
 ![Magic Portfolio](public/images/cover.png)
+![Narwall](public/images/cover.png)
 
 
 # **Getting started**
 
 Magic Portfolio was built with [Once UI](https://once-ui.com) for [Next.js](https://nextjs.org). It requires Node.js v18.17+.
+Narwall was built with [Once UI](https://once-ui.com) for [Next.js](https://nextjs.org). It requires Node.js v18.17+.
 
 **1. Clone the repository**
 ```
 git clone https://github.com/once-ui-system/magic-portfolio.git
+```bash
+git clone https://github.com/once-ui-system/narwall.git
 ```
 
 **2. Install dependencies**
@@ -67,7 +82,7 @@ Add a new .mdx file to src/app/blog/posts or src/app/work/projects
 
 Connect with us on Threads or LinkedIn.
 
-Lorant Toth: [Threads](https://www.threads.net/@lorant.one), [LinkedIn](https://www.linkedin.com/in/tothlorant/)  
+Lorant Toth: [Threads](https://www.threads.net/@lorant.one), [LinkedIn](https://www.linkedin.com/in/tothlorant/)
 Zsofia Komaromi: [Threads](https://www.threads.net/@zsofia_kom), [LinkedIn](https://www.linkedin.com/in/zsofiakomaromi/)
 
 Localization added by [François Hernandez](https://github.com/francoishernandez)
